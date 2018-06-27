@@ -16,16 +16,16 @@ weight: 5
 &emsp;&emsp;Minor: Science, Technology, & Values  
 
 ### Professional Experience  
-2017–&emsp;*University of New Hampshire*  
+2017–&emsp;&emsp;&emsp;*University of New Hampshire*  
 &emsp;&emsp;Postdoctoral Research Associate  
 &emsp;&emsp;Department of Natural Resources & the Environment  
 &emsp;&emsp;Department of Computer Science  
 
-2017&nbsp;&emsp;*Colorado Mountain College*  
+2017&nbsp;&emsp;&emsp;&emsp;*Colorado Mountain College*  
 &emsp;&emsp;Graduate Research Fellow  
 &emsp;&emsp;Department of Institutional Research  
 
-2016&nbsp;&emsp;*University of Colorado Boulder*  
+2016&nbsp;&emsp;&emsp;&emsp;*University of Colorado Boulder*  
 &emsp;&emsp;Graduate Assistant  
 &emsp;&emsp;Museum of Natural History: Entomology Collections  
 
