@@ -5,7 +5,7 @@ permalink: /Education/
 weight: 4
 ---
 
-2011-2017&nbsp;&nbsp;&nbsp;&nbsp;*University of Colorado at Boulder*  
+2011-2017&nbsp;&nbsp;&nbsp;&nbsp;*University of Colorado Boulder*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Department of Ecology & Evolutionary Biology  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diversity & elevational ranges: Evaluating theory across spatial scales in montane ants  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Christy McCain  
