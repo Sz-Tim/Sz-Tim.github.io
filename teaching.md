@@ -32,3 +32,8 @@ While aiding in the learning process is personally satisfying, my motivations an
 &emsp;2009&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Practicum in Environmental Field Biology II
 
 
+### Tutorials   
+[Version Control for Biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX) 
+&emsp;Module for Data Manipulation and Modeling in R, *University of New Hampshire*  
+
+
