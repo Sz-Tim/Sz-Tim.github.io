@@ -11,11 +11,11 @@ While aiding in the learning process is personally satisfying, my motivations an
 
 ### Courses  
 
-*University of Colorado at Boulder*, Co-instructor  
+*University of Colorado Boulder*, Co-instructor  
 &emsp;2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Insect Biology  
 
 
-*University of Colorado at Boulder*, Teaching assistant  
+*University of Colorado Boulder*, Teaching assistant  
 &emsp;2016, 2014&emsp;&emsp;&emsp;&nbsp;Mammalogy  
 &emsp;2015, 2012&emsp;&emsp;&emsp;&nbsp;Insect Biology  
 &emsp;2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Principles of Ecology  
@@ -24,7 +24,7 @@ While aiding in the learning process is personally satisfying, my motivations an
 &emsp;2011&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;General Biology I  
 
 
-*University of Colorado at Boulder*, Academic tutor  
+*University of Colorado Boulder*, Academic tutor  
 &emsp;2012–2014&emsp;&emsp;&emsp;&nbsp;General Biology, Ecology, Non-Majors Biology, General Chemistry  
 
 
