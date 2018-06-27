@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Background
+permalink: /background/
 weight: 5
 ---
 
+### Education  
 2011-2017&emsp;*University of Colorado Boulder*  
 &emsp;&emsp;Ph.D., Department of Ecology & Evolutionary Biology  
 &emsp;&emsp;Diversity & elevational ranges: Evaluating theory across spatial scales in montane ants  
@@ -15,7 +16,7 @@ weight: 5
 &emsp;&emsp;Major: Biological Sciences  
 &emsp;&emsp;Minor: Science, Technology, & Values  
 
-# Professional Experience  
+### Professional Experience  
 2017–&ensp;&emsp;&emsp;*University of New Hampshire*  
 &emsp;&emsp;Postdoctoral Research Associate  
 &emsp;&emsp;Department of Natural Resources & the Environment  
