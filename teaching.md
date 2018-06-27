@@ -6,7 +6,7 @@ weight: 3
 ---
 
 ### Teaching Philosophy  
-While aiding in the learning process is personally satisfying, my motivations and passions for education are much deeper. I firmly believe that the continual betterment of our society depends on our commitment to quality education. We are inextricably linked to our broader environment, and the issues we face require solutions that account for our biological context. Successful education imparts students with an appreciation for complexity, a more accurate perspective of our world, and an ability to think critically and research claims.
+While aiding in the learning process is personally satisfying, my motivations and passions for education are much deeper. I firmly believe that the continual betterment of our society depends on our commitment to quality education. We are inextricably linked to our broader environment, and the issues we face require solutions that account for our biological context. Successful education imparts students with an appreciation for complexity, a more accurate perspective of our world, and an ability to think critically and research claims. I am to be as effective as possible, and the evidence shows that students learn best when actively engaged and invested in their own education. A student-centered approach increases comprehension, building the self-confidence required to critically digest information, interpret data, and assess multiple competing hypotheses.  
 
 
 ### Courses  
