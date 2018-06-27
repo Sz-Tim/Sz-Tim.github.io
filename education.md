@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /Education/
-weight: 4
+weight: 5
 ---
 
 2011-2017&nbsp;&nbsp;&nbsp;&nbsp;*University of Colorado Boulder*  
