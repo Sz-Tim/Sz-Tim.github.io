@@ -15,7 +15,7 @@ weight: 5
 &emsp;&emsp;Major: Biological Sciences  
 &emsp;&emsp;Minor: Science, Technology, & Values  
 
-### Professional Experience  
+# Professional Experience  
 2017–&ensp;&emsp;&emsp;*University of New Hampshire*  
 &emsp;&emsp;Postdoctoral Research Associate  
 &emsp;&emsp;Department of Natural Resources & the Environment  
