@@ -33,7 +33,6 @@ While aiding in the learning process is personally satisfying, my motivations an
 
 
 ### Tutorials   
-[Version Control for Biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX) 
-&emsp;Module for Data Manipulation and Modeling in R, *University of New Hampshire*  
+[Version Control for Biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)    
 
-
+[Introduction to Stan]({{ site.url }}/assets/stan_intro.pdf)  
