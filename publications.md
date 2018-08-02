@@ -7,6 +7,8 @@ weight: 4
 
 ### Peer Reviewed
 
+- McCain CM, S King, **TM Szewczyk**, H Gardner, J Beck. *Accepted*. Small mammal species richness is directly linked to regional productivity, but decoupled from food resources, abundance, or habitat complexity. *Journal of Biogeography*.
+
 - Lydakis A, JM Allen, M Petrik, **TM Szewczyk**. 2018. Computing robust strategies for managing invasive plants. *International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence*. [Link](https://www.researchgate.net/publication/326000204_Computing_Robust_Strategies_for_Managing_Invasive_Plants).
 
 - McCain CM, **TM Szewczyk**, K Bracy Knight. 2016. Population variability complicates the accurate detection of climate change responses. *Global Change Biology* 22(6): 2081-2093. [Link](https://doi.org/10.1111/gcb.13211).
@@ -19,7 +21,7 @@ weight: 4
 
 - **Szewczyk TM** & CM McCain. *In review*. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography*.
 
-- McCain CM, S King, **TM Szewczyk**, H Gardner, J Beck. *In review*. Small mammal species richness is directly linked to regional productivity, but decoupled from food resources, abundance, or habitat complexity. *Journal of Biogeography*.
+- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In review*. Refining compositional land cover maps in a hierarchical Bayesian framework to improve ecological models. *Ecological Applications*.
 
 
 
