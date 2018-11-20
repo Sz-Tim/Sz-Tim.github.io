@@ -9,7 +9,7 @@ weight: 4
 
 - **Szewczyk TM** & CM McCain. *In press*. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography*.
 
-- McCain CM, S King, **TM Szewczyk**, H Gardner, J Beck. 2018. Small mammal species richness is directly linked to regional productivity, but decoupled from food resources, abundance, or habitat complexity. *Journal of Biogeography* 45(11): 2533-2545. [Link](http://dx.doi.org/10.1111/jbi.13432).
+- McCain CM, S King, **TM Szewczyk**, J Beck. 2018. Small mammal species richness is directly linked to regional productivity, but decoupled from food resources, abundance, or habitat complexity. *Journal of Biogeography* 45(11): 2533-2545. [Link](http://dx.doi.org/10.1111/jbi.13432).
 
 - Lydakis A, JM Allen, M Petrik, **TM Szewczyk**. 2018. Computing robust strategies for managing invasive plants. *International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence*. [Link](https://www.researchgate.net/publication/326000204_Computing_Robust_Strategies_for_Managing_Invasive_Plants).
 
