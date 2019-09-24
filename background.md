@@ -17,7 +17,11 @@ weight: 5
 &emsp;&emsp;Minor: Science, Technology, & Values  
 
 ### Professional Experience  
-2017–&ensp;&emsp;&emsp;*University of New Hampshire*  
+2019–&ensp;&emsp;&emsp;*University of Lausanne*
+&emsp;&emsp;Postdoctoral Research Associate  
+&emsp;&emsp;Department of Ecology & Evolution  
+
+2017-2019&emsp;*University of New Hampshire*  
 &emsp;&emsp;Postdoctoral Research Associate  
 &emsp;&emsp;Department of Natural Resources & the Environment  
 &emsp;&emsp;Department of Computer Science  
