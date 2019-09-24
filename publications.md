@@ -34,9 +34,9 @@ weight: 4
 
 ### Conference Presentations* and Posters
 
--**Szewczyk TM**, M Petrik, JM Allen. 2019. Process-based vs. occurrence-based SDMs: Comparing performance under common data and modelling scenarios. International Society for Ecological Modelling.
+- \***Szewczyk TM**, M Petrik, JM Allen. 2019. Process-based vs. occurrence-based SDMs: Comparing performance under common data and modelling scenarios. International Society for Ecological Modelling.
 
--**Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. US International Association for Landscape Ecology.
+- \***Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. US International Association for Landscape Ecology.
 
 - **Szewczyk TM**, MJ Ducey, JM Allen. 2018. Rectifying and splitting a compositional land cover map with a hierarchical Bayesian model. StanCon. [Link](https://www.researchgate.net/publication/325721869_Rectifying_and_splitting_a_compositional_land_cover_map_with_a_hierarchical_Bayesian_model).
 
