@@ -23,7 +23,7 @@ weight: 4
 
 ### In Review  
 
-- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In review*. Refining compositional land cover maps in a hierarchical Bayesian framework to improve ecological models. *Ecological Applications*.
+- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In review*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*.
 
 
 
