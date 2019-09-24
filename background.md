@@ -17,7 +17,7 @@ weight: 5
 &emsp;&emsp;Minor: Science, Technology, & Values  
 
 ### Professional Experience  
-2019–&ensp;&emsp;&emsp;*University of Lausanne*
+2019–&ensp;&emsp;&emsp;*University of Lausanne*  
 &emsp;&emsp;Postdoctoral Research Associate  
 &emsp;&emsp;Department of Ecology & Evolution  
 
