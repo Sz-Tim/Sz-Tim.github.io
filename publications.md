@@ -7,7 +7,9 @@ weight: 4
 
 ### Peer Reviewed
 
-- **Szewczyk TM** & CM McCain. *In press*. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography*.
+- **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. *In press*. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*.
+
+- **Szewczyk TM** & CM McCain. 2019. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography* 42(5): 977–988. [Link](https://doi.org/10.1111/ecog.04115).
 
 - McCain CM, S King, **TM Szewczyk**, J Beck. 2018. Small mammal species richness is directly linked to regional productivity, but decoupled from food resources, abundance, or habitat complexity. *Journal of Biogeography* 45(11): 2533-2545. [Link](http://dx.doi.org/10.1111/jbi.13432).
 
@@ -21,7 +23,7 @@ weight: 4
 
 ### In Review  
 
-- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In revision*. Refining compositional land cover maps in a hierarchical Bayesian framework to improve ecological models. *Ecological Applications*.
+- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In review*. Refining compositional land cover maps in a hierarchical Bayesian framework to improve ecological models. *Ecological Applications*.
 
 
 
@@ -31,6 +33,10 @@ weight: 4
 
 
 ### Conference Presentations* and Posters
+
+-**Szewczyk TM**, M Petrik, JM Allen. 2019. Process-based vs. occurrence-based SDMs: Comparing performance under common data and modelling scenarios. International Society for Ecological Modelling.
+
+-**Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. US International Association for Landscape Ecology.
 
 - **Szewczyk TM**, MJ Ducey, JM Allen. 2018. Rectifying and splitting a compositional land cover map with a hierarchical Bayesian model. StanCon. [Link](https://www.researchgate.net/publication/325721869_Rectifying_and_splitting_a_compositional_land_cover_map_with_a_hierarchical_Bayesian_model).
 
