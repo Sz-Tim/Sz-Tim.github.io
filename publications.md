@@ -7,7 +7,7 @@ weight: 4
 
 ### Peer Reviewed
 
-- **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. *In press*. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827).
+- **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827).
 
 - **Szewczyk TM** & CM McCain. 2019. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography* 42(5): 977–988. [Link](https://doi.org/10.1111/ecog.04115).
 
