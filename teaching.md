@@ -12,10 +12,10 @@ While aiding in the learning process is personally satisfying, my motivations an
 ### Courses  
 
 *University of Lausanne*, Teaching assistant  
-&emsp;2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Population Modelling  
+&emsp;2020&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Population Modelling  
 
 *University of New Hampshire*, Guest lecturer  
-&emsp;2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Manipulation and Modelling in R  
+&emsp;2017&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Manipulation and Modelling in R  
 
 *University of Colorado Boulder*, Co-instructor  
 &emsp;2015&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Insect Biology  
