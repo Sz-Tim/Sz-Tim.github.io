@@ -41,6 +41,6 @@ While aiding in the learning process is personally satisfying, my motivations an
 ### Tutorials & Tools   
 [Comparing COVID-19 predictions with reality](https://sz-tim.shinyapps.io/covid19-ihme/) 
 
-[Version Control for Biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)    
+[Version control with GitHub and RStudio for biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)    
 
-[Introduction to Stan]({{ site.url }}/assets/stan_intro.pdf)  
+[Introduction to Bayesian models in Stan]({{ site.url }}/assets/stan_intro.pdf)  
