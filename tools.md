@@ -12,7 +12,7 @@ An interactive [Shiny](https://shiny.rstudio.com/) app that allows you to explor
 
 ### Tutorials   
 [Version control with GitHub and RStudio](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)  
-<img align="left" width="60" height="41" style="margin: 0px 20px" src="{{ site.url }}/assets/git_workflow.png">A three-part youtube tutorial on a better way of keeping track of your files. Includes an overview of how git works, instructions for setting up git with RStudio, and a demonstration of how to use them together. Originally a component of the UNH course *Data Manipulation and Modelling in R*. All code and instructions are published on [GitHub](https://github.com/Sz-Tim/NR995_Module_9).  
+<img style="float:left" width="100" height="70" style="margin: 0px 20px" src="{{ site.url }}/assets/git_workflow.png">A three-part youtube tutorial on a better way of keeping track of your files. Includes an overview of how git works, instructions for setting up git with RStudio, and a demonstration of how to use them together. Originally a component of the UNH course *Data Manipulation and Modelling in R*. All code and instructions are published on [GitHub](https://github.com/Sz-Tim/NR995_Module_9).  
 
 [Introduction to Bayesian models in Stan]({{ site.url }}/assets/stan_intro.pdf)  
 A very brief, practical introduction to Bayesian models, with some particularities of how the syntax and data structures in [Stan](https://mc-stan.org//) differ from those in [R](http://cran.r-project.org/). Slides only. 
