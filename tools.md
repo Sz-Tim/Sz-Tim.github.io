@@ -6,7 +6,7 @@ weight: 5
 ---
 
 ### Tools  
-[COVID-19 Data Trends Explorer](https://sz-tim.shinyapps.io/covid19-ihme/)<img align="right" width="300" height="330" style="margin: 0px 20px" src="{{ site.url }}/assets/COVID_Italy.png">    
+[COVID-19 Data Trends Explorer](https://sz-tim.shinyapps.io/covid19-ihme/)<img align="right" width="275" height="300" style="margin: 0px 20px" src="{{ site.url }}/assets/COVID_Italy.png">    
 An interactive [Shiny](https://shiny.rstudio.com/) app that allows you to explore the trends of the COVID-19 pandemic within or among countries and US states, visually assess the accuracy of models predicting the progression, and keep track of when, where, and whether peaks in cases or mortality are occurring. Developed as a more formal, user-friendly extension of my own personal morbid curiosity every morning. All code is published on [GitHub](https://github.com/Sz-Tim/COVID19-IHME).  
 
 
