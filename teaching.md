@@ -6,7 +6,7 @@ weight: 2
 ---
 
 ### Teaching Philosophy  
-While aiding in the learning process is personally satisfying, my motivations and passions for education are much deeper. I firmly believe that the continual betterment of our society depends on our commitment to quality education. We are inextricably linked to our broader environment, and the issues we face require solutions that account for our biological context. Successful education imparts students with an appreciation for complexity, a more accurate perspective of our world, and an ability to think critically and research claims. I am to be as effective as possible, and the evidence shows that students learn best when actively engaged and invested in their own education. A student-centered approach increases comprehension, building the self-confidence required to critically digest information, interpret data, and assess multiple competing hypotheses.  
+While aiding in the learning process is personally satisfying, my motivations and passions for education are much deeper. I firmly believe that the continual betterment of our society depends on our commitment to quality education. We are inextricably linked to our broader environment, and the issues we face require solutions that account for our biological context. Successful education imparts students with an appreciation for complexity, a more accurate perspective of our world, and an ability to think critically and analytically. I strive to be as effective as possible, and the current evidence shows that students learn best when actively engaged and invested in their own education. Student-centered approaches increase comprehension, building the self-confidence required to critically digest information, interpret data, and assess multiple competing hypotheses.  
 
 
 ### Courses  
@@ -37,10 +37,3 @@ While aiding in the learning process is personally satisfying, my motivations an
 *University of Notre Dame Environmental Research Center*, Teaching assistant  
 &emsp;2009&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Practicum in Environmental Field Biology II
 
-
-### Tutorials & Tools   
-[Comparing COVID-19 predictions with reality](https://sz-tim.shinyapps.io/covid19-ihme/) 
-
-[Version control with GitHub and RStudio for biologists](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)    
-
-[Introduction to Bayesian models in Stan]({{ site.url }}/assets/stan_intro.pdf)  
