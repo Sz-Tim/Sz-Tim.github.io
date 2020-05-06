@@ -11,7 +11,7 @@ An interactive website that allows you to explore the trends of the COVID-19 pan
 
 
 ### Tutorials   
-<img width="125" height="90" style="float:left; margin: 0px 20px" src="{{ site.url }}/assets/git_workflow.png">[Version control with GitHub and RStudio](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)  
+<img width="125" height="90" style="float:left; margin-right: 20px" src="{{ site.url }}/assets/git_workflow.png">[Version control with GitHub and RStudio](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)  
 A three-part youtube tutorial on a better way of keeping track of your files. Includes an overview of how git works, instructions for setting up git with RStudio, and a demonstration of how to use them together. This was originally a component of the University of New Hampshire course *Data Manipulation and Modelling in R*. All code and instructions are published on [GitHub](https://github.com/Sz-Tim/NR995_Module_9).  
 
 [Introduction to Bayesian models in Stan]({{ site.url }}/assets/stan_intro.pdf)  
