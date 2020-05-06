@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-weight: 3
+weight: 2
 ---
 
 ### Teaching Philosophy  

@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-weight: 2
+weight: 3
 ---
 
 My research focuses on understanding the distribution of species and species diversity across spatial scales, motivated by a blend of intellectual interest in ecological theory and an underlying goal of empirically guided conservation and management efforts. My dissertation research evaluated biodiversity theory across spatial scales, capitalizing on modern tools and the accumulation of data across decades. Using datasets from the literature and extensive fieldwork in Colorado, I investigated ant communities along elevational gradients, seeking to understand the processes driving the patterns and changes at different spatial scales.  

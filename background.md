@@ -2,7 +2,7 @@
 layout: page
 title: Background
 permalink: /background/
-weight: 5
+weight: 6
 ---
 
 ### Education  
