@@ -7,6 +7,8 @@ weight: 4
 
 ### Peer Reviewed
 
+- McCain, CM, S King, **TM Szewczyk**. *In press*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+
 - **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827).
 
 - **Szewczyk TM** & CM McCain. 2019. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography* 42(5): 977–988. [Link](https://doi.org/10.1111/ecog.04115).
@@ -25,7 +27,9 @@ weight: 4
 
 - **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In review*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*.  
 
-- McCain, CM, S King, **TM Szewczyk**. *In revision*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+- **Szewczyk TM** & CM McCain. *In revision*. Elevational effects of climate and land use change on Colorado ants. *Frontiers in Biogeography*.
+
+
 
 
 
@@ -35,6 +39,8 @@ weight: 4
 
 
 ### Conference Presentations* and Posters
+
+- \***Szewczyk TM**, T Lee, MJ Ducey, M Aiello-Lammens, H Bibaud, JM Allen. 2020. Using simulations-based species distribution models for better informed management decisions. Ecological Society of America.
 
 - \***Szewczyk TM**, M Petrik, JM Allen. 2019. Process-based vs. occurrence-based SDMs: Comparing performance under common data and modelling scenarios. International Society for Ecological Modelling.
 
