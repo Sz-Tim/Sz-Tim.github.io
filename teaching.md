@@ -12,6 +12,7 @@ While aiding in the learning process is personally satisfying, my motivations an
 ### Courses  
 
 *University of Lausanne*, Teaching assistant  
+&emsp;2020&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Experimental Design  
 &emsp;2020&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Population Modelling  
 
 *University of New Hampshire*, Guest lecturer  
