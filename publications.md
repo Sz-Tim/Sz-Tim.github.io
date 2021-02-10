@@ -9,9 +9,9 @@ weight: 4
 
 - **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In press*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*.  
 
-- McCain, CM, S King, **TM Szewczyk**. *In press*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+- McCain, CM, S King, **TM Szewczyk**. *In press*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*. [Link](https://doi.org/10.1002/ecy.3300), [GitHub repo](https://github.com/Sz-Tim/2020_McCainEtAl).
 
-- **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827).
+- **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827), [GitHub repo](https://github.com/Sz-Tim/gbPopMod).
 
 - **Szewczyk TM** & CM McCain. 2019. Disentangling elevational richness: A multi-scale hierarchical Bayesian occupancy model of Colorado ant communities. *Ecography* 42(5): 977–988. [Link](https://doi.org/10.1111/ecog.04115).
 
