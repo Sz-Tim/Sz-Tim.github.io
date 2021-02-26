@@ -19,5 +19,5 @@ Ever wonder how the Earth's climate during your lifetime compares to that of you
 [*Version control with GitHub and RStudio*](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)  
 [<img width="125" height="90" style="float:left; margin-right: 10px; margin-top: 4px" src="{{ site.url }}/assets/git_workflow.png">](https://www.youtube.com/playlist?list=PL7GjEq0oE7-YrZoV5eWkO-YOQbZtz-RxX)A three-part youtube tutorial on a better way of keeping track of your files. Includes an overview of how git works, instructions for setting up git with RStudio, and a demonstration of how to use them together. This was originally a component of the University of New Hampshire course *Data Manipulation and Modelling in R*. All code and instructions are published on [GitHub](https://github.com/Sz-Tim/NR995_Module_9). The repository for a revised tutorial and workshop can be found [here](https://github.com/Sz-Tim/Bertelsmeier_Group). 
 
-[*Introduction to Bayesian models in Stan*]({{ site.url }}/assets/stan_intro.pdf)  
+[*Introduction to Bayesian models in Stan* (pdf)]({{ site.url }}/assets/stan_intro.pdf)  
 A very brief, practical introduction to Bayesian models, with some particularities of how the syntax and data structures in [Stan](https://mc-stan.org//) differ from those in [R](http://cran.r-project.org/). Slides only. 
