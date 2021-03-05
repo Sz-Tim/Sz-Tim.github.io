@@ -7,7 +7,7 @@ weight: 4
 
 ### Peer Reviewed
 
-- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In press*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*.  
+- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In press*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*. [Link](https://doi.org/10.1002/eap.2318).  
 
 - McCain, CM, S King, **TM Szewczyk**. *In press*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*. [Link](https://doi.org/10.1002/ecy.3300), [GitHub repo](https://github.com/Sz-Tim/2020_McCainEtAl).
 
