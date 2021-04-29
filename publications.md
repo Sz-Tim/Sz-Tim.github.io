@@ -25,12 +25,6 @@ weight: 4
 
 
 
-### In Review  
-
-- **Szewczyk TM** & CM McCain. *In revision*. Elevational effects of climate and land use change on Colorado ants. *Frontiers in Biogeography*.
-
-
-
 
 
 ### Non-Peer Reviewed
