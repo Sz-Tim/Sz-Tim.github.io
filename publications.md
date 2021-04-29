@@ -7,9 +7,9 @@ weight: 4
 
 ### Peer Reviewed
 
-- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. *In press*. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*. [Link](https://doi.org/10.1002/eap.2318).  
+- **Szewczyk TM**, MJ Ducey, V Pasquarella, JM Allen. 2021. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*. [Link](https://doi.org/10.1002/eap.2318), [GitHub repo](https://sz-tim.github.io/2021_SzewczykEtAl_EcApps/).  
 
-- McCain, CM, S King, **TM Szewczyk**. *In press*. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*. [Link](https://doi.org/10.1002/ecy.3300), [GitHub repo](https://github.com/Sz-Tim/2020_McCainEtAl).
+- McCain, CM, S King, **TM Szewczyk**. 2021. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*. [Link](https://doi.org/10.1002/ecy.3300), [GitHub repo](https://github.com/Sz-Tim/2020_McCainEtAl).
 
 - **Szewczyk TM**, T Lee, MJ Ducey, ME Aiello-Lammens, H Bibaud, JM Allen. 2019. Local management in a regional context: Simulations with process-based species distribution models. *Ecological Modelling*. [Link](https://doi.org/10.1016/j.ecolmodel.2019.108827), [GitHub repo](https://github.com/Sz-Tim/gbPopMod).
 
